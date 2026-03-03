@@ -1,4 +1,4 @@
-# seni-seviyorum-site[index.html](https://github.com/user-attachments/files/25726619/index.html)
+[index.html](https://github.com/user-attachments/files/25726619/index.html)
 <!DOCTYPE html>
 <html lang="tr">
 <head>
